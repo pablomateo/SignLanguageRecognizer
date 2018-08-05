@@ -1,8 +1,7 @@
 # Pablo Mateo Files
 .DS_Store
 __pycache__
-sudoku-[0-9]*.zip
-sudoku-result-[0-9]*.json
+pmateo-slr.zip
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
